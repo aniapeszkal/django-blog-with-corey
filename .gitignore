@@ -1,0 +1,8 @@
+.DS_Store
+.envrc
+.idea/
+.python-version
+posts.json
+__pycache__
+db.sqlite3
+blog_with_corey/media/
